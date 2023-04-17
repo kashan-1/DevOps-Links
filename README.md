@@ -8,7 +8,7 @@ First you need to install `AWS-CLI-V2` by using :
 
 Option 1. `Chocolatey(for windows users)` -> https://community.chocolatey.org/packages/awscli \
 Option 2. `Home Brew(for mac users)` -> https://formulae.brew.sh/formula/awscli \
-Option 3. `By using installation file(universal)` -> https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+Option 3. `By using installation file(All Platforms)` -> https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 
 Run this command and set/add  `Access Key ID` , `Secrect Key ID` and `Region`
